@@ -1,0 +1,394 @@
+
+
+.laranja {
+    display: inline-flex;
+    background-color:#E36211;
+    width:1840px;
+    height:200px;
+
+}
+.laranja-imagem{
+    display: inline-flex;
+    background-color:#E36211;
+    width:300px;
+    height:180px;
+
+}
+.laranja-texto{
+    display:flex;
+    justify-content:center;
+
+}
+
+.s{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 500px;
+    top:-10px;
+}
+
+.v{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 25px;
+    top:35px;
+}
+
+.r{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: -480px;
+    top:80px;
+}
+
+.recepção{
+    display: inline-flex;
+    background-color:#000000;
+    width:1840px;
+    height:600px;
+    position: relative;
+    left: 1px;
+    top: 0,5px;
+}
+
+.container{ text-align: center; }
+.titulo__elite { display: inline-block; text-align: left; 
+}
+
+.container {
+    position: relative;
+    left: -10px;
+    top: -600px;
+  }
+
+  #image {
+    position: absolute;
+    background-color:#000000;
+    width:1740px;
+    height:500px;
+    position: relative;
+    left: -20px;
+    top: 50px;
+  }
+#titulo__elite{
+    color:#00FFD1;
+    width:1300px;
+    height:250px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: -7px;
+    position: absolute;
+    font-size: 32px;
+    left: 900px;
+    top: 150px;
+}
+
+
+.texto__elite{
+    color:#00FFD1;
+    width:1300px;
+    height:250px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: right;
+    position: relative;
+    left: 490px;
+    top: -300px;
+}
+
+
+.texto{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 770px;
+    top:-950px;
+    padding-top: 200px;
+}
+
+.cg{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 750px;
+    top:-1160px;
+}
+
+
+.texto_b{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Inder';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 80px;
+    top:-1450px;
+    
+}
+
+.branco{
+    display: flex;
+    justify-content: space-around;
+}
+.texto_atendimento{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Inder';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left:80px;
+    top:-1800px;
+    padding-top: 100px;
+}
+.branco-imagem{
+    width:300px;
+    height:400px;
+    font-family: 'Inder';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 270px;
+    top:-1800px;
+    padding-top: 200px;
+}
+
+.texto-corpo-dois{
+    color:#000000;
+    width:500px;
+    height:250px;
+    justify-content:right;
+    font-family: 'Inder';
+    font-weight:700;
+    font-size: 34px;
+    text-align:center;
+    position: relative;
+    left: 400px;
+    top:-1800px;
+}
+
+.dd{
+    color:#000000;
+    width:500px;
+    height:250px;
+    font-family: 'Inder';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: -50px;
+    top:-1950px;
+    padding-top: 200px;
+}
+
+
+
+.quadrado_laranja{
+      background-color:#E36211;
+      width:1840px;
+      height:800px;
+      padding-top: none;
+      position: relative;
+    left:-7px;
+    top: -1800px;
+
+  }
+.itens_laranja{
+    display: grid;
+    grid-template-columns: 800px 800px;
+}
+
+.titulo_laranja{
+    text-align: center;
+    color:#FF0000;
+    width:500px;
+    height:250px;
+    font-family: 'Inder';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 700px;
+    top: 30px;
+
+}
+
+.Bebidas{
+    color:#7B3D04;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 500px;
+    top: -150px;
+}
+
+.j{
+color:#000000;
+font-family: 'Aref Ruqaa Ink';
+position: relative;
+left: -800px;
+position: relative;
+    left: -300px;
+    top: -70px;
+}
+.Expresso{
+     color:#7B3D04;
+    font-family: 'Aref Ruqaa Ink';
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    left: 1200px;
+    top: -350px;
+}
+
+.a{
+    color:#000000;
+    font-family: 'Aref Ruqaa Ink';
+    position: relative;
+    left: -800px;
+    top: 80px;
+    position: relative;
+    left: 400px;
+    top: -270px;
+    }
+
+    .Sanduíche{
+        color:#7B3D04;
+        font-family: 'Aref Ruqaa Ink';
+        font-weight: 700;
+        font-size: 34px;
+        position: relative;
+        left: 500px;
+        top: -300px;
+    }
+
+    .ç {
+        color:#000000;
+        font-family: 'Aref Ruqaa Ink';
+        position: relative;
+        left: -800px;
+        top: 80px;
+        position: relative;
+        left: -300px;
+        top: -220px;
+        }
+
+        .Doces {
+            color:#7B3D04;
+           font-family: 'Aref Ruqaa Ink';
+           font-weight: 700;
+           font-size: 34px;
+           position: relative;
+           left: 1200px;
+           top: -490px;
+       }
+
+       .k {
+        color:#000000;
+        font-family: 'Aref Ruqaa Ink';
+        position: relative;
+        left: -800px;
+        top: 80px;
+        position: relative;
+        left: 400px;
+        top: -420px;
+        }
+        
+
+        .img1{
+        display: inline-flex;
+        position: relative;
+        left:-10px;
+        top: -1800px;
+            }
+
+         .cimia{
+        position: relative;
+        left: 430px;
+        top: -2417px;
+                }
+
+        .comer {
+            position: relative;
+            left: 430px;
+            top: -2414px;
+                    }
+
+        .História{  display: inline-flex;
+            background-color:#00FFD1;
+            width:1162px;
+            height:610px;
+            position: relative;
+            left: 672px;
+            top: -3028px;
+                }
+
+        .HIS {
+            text-align: center;
+            color:#000000;
+            width:500px;
+            height:250px;
+            font-family: 'Bricolage Grotesque';
+            font-weight: 700;
+            font-size: 34px;
+            position: relative;
+            left: 500px;
+            top: 150px;
+
+            }
+
+            .Instoria {
+                color:#000000;
+                font-family: 'Bricolage Grotesque';
+                width:3500px;
+                height:9500px;
+                position:relative;
+                left:-90px;
+                top:400px;
+                }
+
+                .informações{  
+                    background-color:#E36211;
+                    width:1841px;
+                    height:290px;
+                    position: relative;
+                    left: -8px;
+                    top: -3030px;
+                        }
+
+               .kkk {
+                color:#000000;
+               font-family: 'Inder';
+               font-weight: 400;
+               font-size: 15px;
+               position: relative;
+               left: 100px;
+               top: 60px;
+           }
